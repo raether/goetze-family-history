@@ -31,3 +31,5 @@ Gutrune describes retraining in physical therapy in Dunedin, working at Tripler 
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 1, 17, 23–24, 29–37. [Read in English](../../records/chronicles/gutrune-1988-english.md#gutrune).
 - [Immigration and marriage records](../../records/Getrune%20Goetze/README.md) and [historical source S11](../../SOURCES.md).
+- [Gutrune to Margret and Gottfried, 15 December 1940](../../records/letters/L003.md).
+- [Gutrune to Lore, 14 March 1983](../../records/letters/L004.md).

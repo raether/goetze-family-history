@@ -4,7 +4,7 @@
 
 Welcome, especially to relatives and cousins who are following the research from the United States. This public archive is meant to make the history readable, checkable, and collaborative. The first edition was prepared on **22 November 2026**.
 
-**Start here:** [Biographies](people/README.md) · [Records](records/README.md) · [Family timeline](TIMELINE.md) · [Family lines and US connections](FAMILY_LINES.md) · [Historical sources](SOURCES.md) · [Open questions](OPEN_QUESTIONS.md) · [How to contribute](CONTRIBUTING.md) · [Deutsche Einführung](DEUTSCH.md).
+**Start here:** [Biographies](people/README.md) · [Records](records/README.md) · [Family letters](records/letters/README.md) · [Family timeline](TIMELINE.md) · [Family lines and US connections](FAMILY_LINES.md) · [Historical sources](SOURCES.md) · [Open questions](OPEN_QUESTIONS.md) · [How to contribute](CONTRIBUTING.md) · [Deutsche Einführung](DEUTSCH.md).
 
 ## The story we are reconstructing
 

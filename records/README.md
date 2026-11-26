@@ -12,6 +12,10 @@ Browse the source material and record summaries here. Start with the [biography 
 - [Gutrune Goetze’s immigration and marriage records](Getrune%20Goetze/README.md) include her passenger manifest and declaration of intention.
 - [The U.S. passenger manifest entry](../MEDIA.md#two-halves-of-a-us-passenger-arrival-manifest) lists two related images whose details are still being researched.
 
+## Family letters
+
+- [Family letters, 1935–1987](letters/README.md) links to the Markdown records and PDFs with original images and English translations.
+
 ## Family chronicles
 
 - [Gutrune Falckon’s 1988 family chronicle](chronicles/gutrune-1988.md) covers the Götze and Römmler families. Read the [German original and English translation (PDF)](chronicles/gutrune-1988-german-and-english.pdf) or the [English reading edition](chronicles/gutrune-1988-english.md).

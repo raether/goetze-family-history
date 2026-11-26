@@ -31,3 +31,4 @@ The 1938 manifest names Gutrune’s brother in Berlin as H. Goetze. The initial 
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 19–22. [Read in English](../../records/chronicles/gutrune-1988-english.md#dr-hermann-goetze).
 - [Gutrune’s passenger manifest and source credits](../../records/Getrune%20Goetze/README.md).
+- [Hermann to Gottfried, with newspaper clipping, 5 August 1937](../../records/letters/L002.md).

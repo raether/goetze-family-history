@@ -37,3 +37,5 @@ Gottfried married Margret Ulbrich on 23 March 1923 in Berlin-Lichtenberg, accord
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 23, 27–28. [Read in English](../../records/chronicles/gutrune-1988-english.md#dr-gottfried-goetze).
 - [Ancestor chart for Gottfried’s family](../../charts/README.md).
+- [Hermann to Gottfried, with newspaper clipping, 5 August 1937](../../records/letters/L002.md).
+- [Gutrune to Margret and Gottfried, 15 December 1940](../../records/letters/L003.md).
