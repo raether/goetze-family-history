@@ -12,6 +12,8 @@ She was a daughter of Frankfurt pharmacist Lorenz Gottlieb Brunner and Anna Mari
 
 Gutrune recalled that Friederike wrote an account of her youth in Frankfurt and left a large family Bible to Gertraute, who later passed it to Dieter. Friederike’s precise date of death remains to be confirmed.
 
+Gutrune places one of Friedericke’s visits around 1907, when the children were living in Darmstadt and Rudolf was working in Heppenheim. She also remembered Friedericke’s religious convictions and how they clashed with Rudolf’s views, recounting that Friedericke burned the second part of Goethe’s *Faust* because she considered it immoral. In later life, Friedericke lived in the same apartment building in Gera as her widowed daughter Frieda and Frieda’s children. Gutrune says the account of her youth described the unrest in Frankfurt around 1848. [Gutrune’s chronicle, early Götze and Brunner families](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us)
+
 ## Family
 
 ### Parents

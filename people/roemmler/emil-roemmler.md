@@ -10,7 +10,9 @@ Carl Emil Römmler was a Dresden photographer and fine-art printer. The Dresden 
 
 According to the chronicle, he left home with three thalers and a camera. Gutrune remembered reading his memoir in Raimund’s studio in Mérida. In her retelling, he photographed children he met near the Dresden palace who turned out to be the king’s children. She says he subsequently became a court photographer and received a commission to photograph works in Dresden’s art galleries.
 
-He married [Helene Arndt](../arndt/helene-arndt.md) in Chemnitz in 1862. Gutrune describes a trip to Paris to learn three-color photography and names the printing business as Roemmler and Jonas before he continued on his own. She remembers the company’s floral and gallery postcards and traces its later decline through the inflation years.
+He married [Helene Arndt](../arndt/helene-arndt.md) in Chemnitz in 1862. Gutrune describes a trip to Paris to learn three-color photography and names the printing business as Roemmler and Jonas and recalls the company’s floral and gallery postcards and its later decline during the inflation years. [Gutrune’s chronicle, Römmler family](../../records/chronicles/gutrune-1988-english.md#the-roemmler-family)
+
+A February 1904 Dresden trade notice records the business being reorganized as a limited-liability company under the name Römmler & Jonas. It names Carl Römmler, identified as a royal court photographer, as managing director. The notice documents the firm’s legal name and his role at that point in his career. [Börsenblatt trade notice, 5 March 1904](https://digital.slub-dresden.de/data/kitodo/Brsfded_39946221X-19040305/Brsfded_39946221X-19040305_tif/jpegs/Brsfded_39946221X-19040305.pdf)
 
 ## Family
 

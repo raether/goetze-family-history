@@ -6,9 +6,11 @@
 
 ## Biography
 
-Bernhard was [Rudolf Götze’s](rudolf-goetze.md) younger brother. Gutrune says that he inherited their father’s factory, sold it to pay his siblings their shares, and went into wholesale trading for textile mills. She remembers him living in Berlin and later training her brother Hermann as a textile sales representative.
+Bernhard was [Rudolf Götze’s](rudolf-goetze.md) younger brother. Gutrune says that he inherited their father’s factory, sold it to pay his siblings their shares, and went into wholesale trading for textile mills. She remembers him living in Berlin.
 
 Bernhard married [Johanna Römmler](../roemmler/johanna-roemmler.md), the younger sister of Rudolf’s wife Else. The two couples’ children were therefore first cousins through both families. Gutrune names Bernhard and Johanna’s daughters as [Hildegard](hildegard-goetze.md), [Erna](erna-goetze.md), and [Brigitte](brigitte-goetze.md).
+
+Gutrune’s memories show how often the two households saw each other. She remembers visiting Bernhard in Berlin as a child and being given arithmetic problems alongside Brigitte. After the First World War, the family was living in Grünheide near Berlin, where Brigitte later married. Bernhard also helped his nephew Hermann start over by teaching him the textile sales trade. [Gutrune’s chronicle, Hildegard, Erna, and Brigitte](../../records/chronicles/gutrune-1988-english.md#hildegard-erna-and-brigitte-goetze) · [Gutrune’s chronicle, Hermann](../../records/chronicles/gutrune-1988-english.md#dr-hermann-goetze)
 
 ## Family
 

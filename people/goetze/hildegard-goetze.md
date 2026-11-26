@@ -6,9 +6,11 @@
 
 ## Biography
 
-Hildegard, called Hilde, was a daughter of [Bernhard Götze](bernhard-goetze.md) and [Johanna Römmler](../roemmler/johanna-roemmler.md). Gutrune gives her birthplace as Glauchau and recalls that Hilde spent a year with Gutrune’s mother in Heppenheim to learn to cook.
+Hildegard, called Hilde, was a daughter of [Bernhard Götze](bernhard-goetze.md) and [Johanna Römmler](../roemmler/johanna-roemmler.md). Gutrune gives her birthplace as Glauchau.
 
 The chronicle says Hildegard married Frank Glatzel in Berlin on 27 November 1918 and later divorced. Gutrune records that Hildegard was living in Berlin when she wrote her account.
+
+Gutrune remembers Hildegard and her sisters as frequent visitors. Hermann even wrote a little verse asking their uncle to send all three girls for a visit. Hildegard and Erna each lived for a year with Else in Heppenheim to learn household cooking. Gutrune also names Hildegard’s two daughters, Ingeborg and Barbara. [Gutrune’s chronicle, Hildegard, Erna, and Brigitte](../../records/chronicles/gutrune-1988-english.md#hildegard-erna-and-brigitte-goetze)
 
 ## Family
 

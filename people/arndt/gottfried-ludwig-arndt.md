@@ -8,9 +8,11 @@
 
 Gottfried Ludwig Arndt was a portrait and house painter in Chemnitz. Gutrune records his birth in Elbing, East Prussia, on 18 June 1810 and his death in his son-in-law’s house in Dresden on 4 February 1902.
 
-He married [Auguste Heinigke](../heinigke/auguste-heinigke.md) in Chemnitz. The chronicle names their daughter [Helene](helene-arndt.md) and mentions a younger daughter whose name Gutrune did not know. Gutrune remembers seeing Gottfried Ludwig’s self-portrait among the family paintings in Dresden.
+He married [Auguste Heinigke](../heinigke/auguste-heinigke.md) in Chemnitz. The chronicle names their daughter [Helene](helene-arndt.md) and mentions a younger daughter whose name Gutrune did not know.
 
 The chronicle types the marriage year as 1941, although its stated ages and the surrounding chronology suggest 1841. The civil or church marriage entry would resolve the date.
+
+In Dresden, great-grandson Hermann’s childhood question about who the little old man was became a family nickname for Gottfried Ludwig. Gutrune later saw his self-portrait among the family paintings and recalled his dark hair and eyes. She thought some of these pictures might have passed into Alle Lee’s family collection. [Gutrune’s chronicle, Arndt and Heinigke families](../../records/chronicles/gutrune-1988-english.md#the-arndt-and-heinigke-families)
 
 ## Family
 

@@ -10,7 +10,9 @@ Gutrune identifies her maternal grandmother as Helene Arndt, daughter of [Gottfr
 
 Gutrune names five daughters and three sons. Among them were Else, who married Rudolf Goetze, and Johanna, who married his brother Bernhard. Another son, Fritz, served as a Saxon cavalry captain and died in 1914 according to the memoir.
 
-Gutrune remembered her grandparents’ Dresden villa, their summer house in Loschwitz, and a diamond wedding celebration in the Ore Mountains. She writes that Else cared for Helene through her final illness. The Dresden marriage register summary transcribes Else’s mother’s given name as Johanne and leaves her maiden surname open. Helene’s full civil name needs a clearer or additional record.
+Gutrune writes that Else cared for Helene through her final illness. The Dresden marriage register summary transcribes Else’s mother’s given name as Johanne and leaves her maiden surname open. Helene’s full civil name needs a clearer or additional record.
+
+Gutrune remembers attending both the golden and diamond wedding anniversaries. She recalls the elaborate Dresden villa during the golden anniversary, down to a marble bath reached by steps. The summer house in Loschwitz and the anniversary gathering in the Ore Mountains are among her strongest memories of her grandparents’ household. [Gutrune’s chronicle, Römmler family](../../records/chronicles/gutrune-1988-english.md#the-roemmler-family)
 
 ## Family
 

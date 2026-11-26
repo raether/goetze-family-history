@@ -8,9 +8,11 @@
 
 Else Römmler was born on 7 May 1868 in Dresden. The civil register identifies her as the daughter of the photographer [Carl Emil Römmler](emil-roemmler.md) and records her marriage to [Rudolf Emil Fritz Götze](../goetze/rudolf-goetze.md) on 8 April 1892. Gutrune uses both Else and Elsa.
 
-After the Naunhof venture failed, Else moved with the children to Darmstadt while Rudolf worked in Heppenheim. The family later lived in Heppenheim. After Rudolf’s death in 1920, Else spent time at the Bergfried settlement and cared for relatives, including her grandchildren Irmgard and Franzl. Gutrune says Else died in April 1935.
+After the Naunhof venture failed, Else moved with the children to Darmstadt while Rudolf worked in Heppenheim. The family later lived in Heppenheim. Gutrune records Else’s death in April 1935.
 
 Gutrune identifies Helene Arndt as her maternal grandmother. The marriage register summary provisionally reads Else’s mother as Johanne, with the maiden surname still uncertain. The two descriptions warrant comparison with a clearer register image or another record.
+
+In Gutrune’s account, Else managed the children, staff, and sanatorium during a three-month trip Rudolf made to Italy. Once widowed, Else cooked for the Bergfried settlement. She later cared for her own mother in Dresden and helped raise Irmgard and Franzl while their parents worked. [Gutrune’s chronicle, Rudolf](../../records/chronicles/gutrune-1988-english.md#my-father-dr-rudolf-emil-goetze) · [Gutrune’s chronicle, Römmler family](../../records/chronicles/gutrune-1988-english.md#the-roemmler-family) · [Gutrune’s chronicle, Gutrune](../../records/chronicles/gutrune-1988-english.md#gutrune) · [Gutrune’s chronicle, Gertraute](../../records/chronicles/gutrune-1988-english.md#gertraute-18951981)
 
 ## Family
 
