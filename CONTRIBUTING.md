@@ -1,6 +1,8 @@
 # Contribute to our shared family research
 
-**Welcome, relatives in the US and Germany.** You need no genealogy software or programming experience.
+**Welcome, relatives in the US and Germany.** You need no genealogy software, programming experience, or scholarly vocabulary. A family letter, photograph, chart, memory, or uncertain clue is a valuable contribution in its own right.
+
+You do not need to prove a historical claim or assign an evidence category before contributing. The archive's editors take responsibility for indexing, checking sources, preserving uncertainty, and distinguishing records from interpretations. For privately held documents we can work from a description first and agree on what may be published.
 
 ## The simplest way to help
 
@@ -8,7 +10,7 @@ Read [OPEN_QUESTIONS.md](OPEN_QUESTIONS.md). If you have a clue, [open a new Git
 
 If you prefer the existing **family Facebook group**, you can discuss a lead there. Ask the family researcher before transferring anyone else's Facebook post into this public archive. **Nothing from Facebook is imported automatically.** If you want to propose an edited research note, you can also open a pull request.
 
-## What makes a good contribution
+## Helpful context (not an entrance requirement)
 
 - Which deceased historical person or family branch does it concern?
 - What is the exact **date and place**?
@@ -25,7 +27,7 @@ For family documents held privately, start with a **description**, not a public 
 
 We will publish painful historical facts—including documented antisemitism and Nazi persecution—with clear citations and without assuming guilt or beliefs for descendants. We welcome corrections without judgment.
 
-## Research vocabulary
+## Research vocabulary used by the editors
 
 **DIRECT:** An original historical document actually viewed and cited.
 

@@ -1,0 +1,39 @@
+# Albertine Friedericke Caroline Götze, née Brunner
+
+*Born 1830, died about 1912 according to the chronicle*
+
+[Biography index](../README.md)
+
+## Biography
+
+Gutrune remembered her paternal grandmother as Friederike Brunner, a devout woman who dressed in black and gave her grandchildren chocolate. The account of the 1857 Frankfurt marriage cited in the archive gives her name as Albertine Friedericke Caroline Brunner. The Dresden register summary reads Albertine Caroline, née Brunner, with the full sequence of given names still uncertain.
+
+She was a daughter of Frankfurt pharmacist Lorenz Gottlieb Brunner and Anna Maria Enders. She married [Emil Hermann Götze](../goetze/emil-hermann-goetze.md) on 18 November 1857, according to Gutrune. Among their surviving children were [Rudolf](../goetze/rudolf-goetze.md) and [Bernhard](../goetze/bernhard-goetze.md).
+
+Gutrune recalled that Friederike wrote an account of her youth in Frankfurt and left a large family Bible to Gertraute, who later passed it to Dieter. Friederike’s precise date of death remains to be confirmed.
+
+Gutrune places one of Friedericke’s visits around 1907, when the children were living in Darmstadt and Rudolf was working in Heppenheim. She also remembered Friedericke’s religious convictions and how they clashed with Rudolf’s views, recounting that Friedericke burned the second part of Goethe’s *Faust* because she considered it immoral. In later life, Friedericke lived in the same apartment building in Gera as her widowed daughter Frieda and Frieda’s children. Gutrune says the account of her youth described the unrest in Frankfurt around 1848. [Gutrune’s chronicle, early Götze and Brunner families](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us)
+
+## Family
+
+### Parents
+
+- Lorenz Gottlieb Brunner
+- Anna Maria Enders
+
+### Spouses
+
+- [Emil Hermann Götze](../goetze/emil-hermann-goetze.md) — married in 1857 in Frankfurt am Main.
+
+### Children
+
+- Frieda Holz, née Götze
+- Bruno Götze
+- [Rudolf Emil Fritz Götze](../goetze/rudolf-goetze.md)
+- [Bernhard Götze](../goetze/bernhard-goetze.md)
+- A son whose name is unknown, who died in childhood.
+
+## Sources
+
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 2–5. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us).
+- [Historical source S3](../../SOURCES.md) and [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).

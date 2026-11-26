@@ -1,29 +1,25 @@
 # Family lines and the American connection
 
-## The Glauchau line
+Start here to see how the families connect. Follow the [biography index](people/README.md) for individual lives, the [family charts](charts/README.md) for generations, and the [records index](records/README.md) for source material.
 
-The 1856 industry publication describes two owners of **Götze senior und Söhne**, Carl Eduard and Emil Herrmann Götze. In the *Hessische Biografie*, Emil Hermann Götze is connected by a **1857 Frankfurt marriage** to Albertine Friedericke Caroline Brunner. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative.
+## Götze and Brunner in Glauchau and Frankfurt
 
-**NEW ORIGINAL RECORD:** The Dresden marriage register **No. 228 of 8 April 1892** identifies Rudolf Emil Fritz Götze's father as **Emil Hermann Götze**, merchant, and his mother as **Albertine Caroline, née Brunner** (one or more given names may still need clarification). Thus Rudolf's parentage is now established by a contemporary civil record, not just a same-name hypothesis. The 1863 baptismal register remains to be seen for godparents and birthplace address. We have not established that Carl Eduard and Emil Hermann were brothers. [Marriage record: evidence summary](MARRIAGE_1892.md). [Sources S1, S3, S4](SOURCES.md).
+The 1856 industry publication names [Carl Eduard Götze](people/goetze/carl-eduard-goetze.md) and [Emil Hermann Götze](people/goetze/emil-hermann-goetze.md) as owners of *Götze senior und Söhne* in Glauchau. Their exact relationship remains open. The *Hessische Biografie* connects Emil Hermann Götze to Albertine Friedericke Caroline Brunner through their 1857 Frankfurt marriage. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative. The 1892 Dresden register confirms Emil Hermann and Albertine, née Brunner, as Rudolf’s parents. [Glauchau and Frankfurt sources](SOURCES.md) · [Götze bios](people/README.md#götze-line) · [Brunner bio](people/README.md#brunner-line)
 
-## Rudolf and Elsa / Else, née Römmler / Roemmler
+## Römmler, Arndt, and Heinigke
 
-The **Dresden civil marriage record No. 228/1892** directly documents Rudolf's marriage to **Else Römmler on 8 April 1892**. It records **Else's birth on 7 May 1868 in Dresden**, father **Carl Emil Römmler**, photographer, and mother **Johanne** (maiden surname not yet clearly read). Both fathers signed as witnesses. The form **Elsa** appears in later family records; **Else** is the spelling in this marriage register. The number of their children remains unresolved in the secondary literature; names frequently associated with the family include **Albrecht, Gottfried, Raimund, Hermann, and Gutrune**. **Gertraute** is a distinct person requiring a verified relationship, not an automatic addition to the list.
+The Dresden register names the photographer Carl Emil Römmler as Else’s father. Gutrune’s chronicle identifies Helene Arndt as Else’s mother and traces Helene’s family to Gottfried Ludwig Arndt and Auguste Heinigke. The marriage-register summary provisionally reads Else’s mother’s given name as Johanne. A clearer register image or another record could help reconcile the names. [1892 register summary](records/marriages/1892-dresden-goetze-roemmler.md) · [Römmler bios](people/README.md#römmler-line) · [Arndt bios](people/README.md#arndt-line) · [Heinigke bio](people/README.md#heinigke-line)
 
-The exact dates and places of births, marriages, and deaths should be supplied from original civil registers whenever possible.
+## Two marriages join the Götze and Römmler families
 
-## An American lead: Gutrune
+The Dresden civil register records Rudolf Emil Fritz Götze’s marriage to Else Römmler on **8 April 1892**. It gives Else’s birth as **7 May 1868** in Dresden and records both fathers as witnesses. Else is the register spelling. Elsa appears in family accounts. Gutrune also describes Rudolf’s brother Bernhard marrying Else’s sister Johanna. Their children were first cousins through both families. [Dresden marriage record](records/marriages/1892-dresden-goetze-roemmler.md) · [Gutrune’s chronicle, manuscript pp. 5, 11, 17–18](records/chronicles/gutrune-1988.md#page-guide)
 
-An index transcription for **Gutrune Falckon (1903–1989)** reports a death in **Alameda County, California** and gives the father's surname as **Goetze** and mother's maiden surname as **Roemmler**. This rare combination makes her association with the Rudolf–Elsa family highly plausible. Nevertheless, **the index does not provide the parents' first names**, and we have not inspected the official death certificate.
+On page 17, Gutrune lists seven children in Rudolf and Else’s family, including Gertraute and Gutrune’s twin Gunter, who died in infancy. The parents’ bios link to all seven and flag where a civil record would help confirm a relationship. [Rudolf’s family](people/goetze/rudolf-goetze.md#family) · [Else’s family](people/roemmler/else-roemmler.md#family)
 
-The names **Falcke** and **Falckon** also occur in tentative marriage and later-life leads; their relationship must be resolved before declaring a marriage or migration timeline. [Source S11](SOURCES.md).
+## Gutrune and Gertraute in the United States
 
-## A separate exile trail: Gertraute
+Gutrune’s 1938 passenger manifest records her arrival in New York and names a brother H. Goetze in Berlin and a sister G. Fischer in New York. These initials and places are consistent with Hermann and Gertraute. Her signed declaration of intention records her birth in Naunhof on 8 June 1903, and the Manhattan marriage record concerns her 1942 marriage to Theodore Falcke. The California death index associates Gutrune Falckon with the surnames Goetze and Roemmler but gives neither parent’s first name. [Gutrune’s bio](people/goetze/gutrune-goetze.md) · [Immigration and marriage records](records/Getrune%20Goetze/README.md) · [California death index, source S11](SOURCES.md)
 
-**Gertraute Goetze-Fischer (born approximately 1895 according to archive metadata)** wrote about life in Berlin and emigration to New York during the Nazi period. Her own 1937 account is publicly transcribed, and manuscripts and correspondence are indexed in the German Exile Archive. This person's exact parents and her place in the Rudolf–Elsa family are **not yet established**. Do not confuse her with Gutrune. [Source S8](SOURCES.md).
+Gertraute’s 1937 application gives a separate account of exile. Gutrune names Gertraute as her sister, and the manifest supports that identification. A birth or marriage record would help confirm Gertraute’s parentage. [Gertraute’s bio](people/goetze/gertraute-goetze.md) · [Exile archive, source S8](SOURCES.md)
 
-## What US relatives might be able to answer
-
-Do you have dated letters, family Bibles, photo inscriptions, passenger records, naturalization certificates, obituaries, or memories that might identify **Gutrune's birthplace and parents** or connect people across Germany and the US?
-
-Please [contribute a lead](CONTRIBUTING.md). Avoid sharing any living person's full date of birth, private address, medical history, or identifying documents in a public issue.
+Do you have a dated letter, family Bible, photo inscription, or civil record that could help? See the [open research questions](OPEN_QUESTIONS.md) and the [contribution guide](CONTRIBUTING.md).

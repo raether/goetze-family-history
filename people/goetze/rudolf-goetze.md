@@ -1,0 +1,48 @@
+# Rudolf Emil Fritz Götze
+
+*1863–1920*
+
+[Biography index](../README.md)
+
+<img src="../../photos/Rudolph%20Goetze/IMG_4951.jpeg" alt="Studio portrait captioned Rudolf Goetze, age 23" width="280">
+
+*Family caption: “Rudolf Goetze, age 23.”* [Photo record](../../photos/README.md#portrait-captioned-rudolf-goetze-age-23)
+
+## Biography
+
+Rudolf Emil Fritz Götze was born on 23 September 1863 in Glauchau, the son of [Emil Hermann Götze](emil-hermann-goetze.md) and [Albertine née Brunner](../brunner/friedericke-brunner.md). He married [Else Römmler](../roemmler/else-roemmler.md) in Dresden on 8 April 1892, as recorded in civil register No. 228. Gutrune, their daughter, gives 9 April in her chronicle.
+
+According to the German Wikipedia biography, Rudolf studied medicine at Leipzig from 1884 to 1889 and worked as an assistant to Konrad Rieger at the psychiatric clinic in Würzburg. By 1894 he was directing the Albert-Zweigverein’s outpatient clinic for nervous and mental disorders in Leipzig. His 1893 book *Die Bleivergiftung* examined lead poisoning and argued for studying chemical processes in the nervous system. [German Wikipedia (S4)](https://de.wikipedia.org/wiki/Rudolf_G%C3%B6tze) · [Digitized edition of *Die Bleivergiftung*](https://play.google.com/store/books/details/Rudolf_Goetze_Die_Bleivergiftung?id=0bA9AAAAIAAJ)
+
+Rudolf established a sanatorium in Naunhof near Leipzig. The German Wikipedia account dates his move to Naunhof to 1897 and the announcement of the sanatorium’s closure to April 1907. Gutrune describes the family losing its property after a water-tower venture, then moving to Hesse, where Rudolf became a senior physician at the state institution in Heppenheim. The chronicle records his death in Alzey on 30 October 1920. The archive still seeks the original death record. [German Wikipedia (S4)](https://de.wikipedia.org/wiki/Rudolf_G%C3%B6tze) · [Gutrune’s chronicle](../../records/chronicles/gutrune-1988-english.md#my-father-dr-rudolf-emil-goetze)
+
+Gutrune remembered him as a gifted pianist and devotee of Wagner. The archive also documents his participation in the 1893–1894 antisemitic campaign against the Schmul family’s legally approved use of the surname Goetze.
+
+## Family
+
+### Parents
+
+- [Emil Hermann Götze](emil-hermann-goetze.md)
+- [Albertine Friedericke Caroline Götze, née Brunner](../brunner/friedericke-brunner.md)
+
+### Spouses
+
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md) — married 8 April 1892 in Dresden (civil register).
+
+### Children
+
+- [Hermann Götze](hermann-goetze.md)
+- [Gertraute Götze Fischer](gertraute-goetze.md) — listed as their daughter in Gutrune’s chronicle (p. 17). A civil record would help confirm her parentage.
+- [Albrecht Götze](albrecht-goetze.md)
+- [Gottfried Götze](gottfried-goetze.md)
+- [Raimund Götze](raimund-goetze.md)
+- [Gutrune Falckon, née Götze](gutrune-goetze.md)
+- [Gunter Götze](gunter-goetze.md) — Gutrune’s twin, who died in infancy.
+
+## Sources
+
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 3, 5–9, 17, 19, 22. [Read in English](../../records/chronicles/gutrune-1988-english.md#my-father-dr-rudolf-emil-goetze).
+- [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md), entry No. 228. The register gives Else’s birth date as **7 May 1868**.
+- [“Rudolf Götze,” German Wikipedia](https://de.wikipedia.org/wiki/Rudolf_G%C3%B6tze), listed as S4 in the [source register](../../SOURCES.md). This secondary overview gives Else’s birth date as **7 April 1868**. The bio uses the civil register.
+- [Historical sources S5–S7](../../SOURCES.md) cover Rudolf’s Wagner lecture and the surname campaign.
+- [Portrait captioned “Rudolf Goetze, age 23”](../../photos/README.md#portrait-captioned-rudolf-goetze-age-23).
