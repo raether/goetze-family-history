@@ -2,11 +2,11 @@
 
 *1903–1989*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
-Gutrune was born on 8 June 1903 in Naunhof near Leipzig, as recorded in her signed 1938 declaration of intention. In her chronicle she identifies [Rudolf Götze](rudolf-goetze.md) and [Else Römmler](else-roemmler.md) as her parents and names [Gunter](gunter-goetze.md) as her twin brother.
+Gutrune was born on 8 June 1903 in Naunhof near Leipzig, as recorded in her signed 1938 declaration of intention. In her chronicle she identifies [Rudolf Götze](rudolf-goetze.md) and [Else Römmler](../roemmler/else-roemmler.md) as her parents and names [Gunter](gunter-goetze.md) as her twin brother.
 
 She trained in gardening and therapeutic exercise in Germany. The passenger manifest records her arrival in New York on 13 July 1938. She married Theodore Falcke in Manhattan in 1942. The archive’s marriage summary gives 7 November and her chronicle says 11 November. The chronicle also uses the name Theodore Falckon.
 
@@ -17,7 +17,7 @@ Gutrune describes retraining in physical therapy in Dunedin, working at Tripler 
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md)
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 
 ### Spouses
 
@@ -29,5 +29,5 @@ Gutrune describes retraining in physical therapy in Dunedin, working at Tripler 
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 1, 17, 23–24, 29–37.
-- [Immigration and marriage records](../records/Getrune%20Goetze/README.md) and [historical source S11](../SOURCES.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 1, 17, 23–24, 29–37.
+- [Immigration and marriage records](../../records/Getrune%20Goetze/README.md) and [historical source S11](../../SOURCES.md).

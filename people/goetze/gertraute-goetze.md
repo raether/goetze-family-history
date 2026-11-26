@@ -2,7 +2,7 @@
 
 *1895–1981 in the chronicle*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
@@ -17,7 +17,7 @@ Gutrune identifies Gertraute by name as her sister. The 1938 manifest separately
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md) — according to the chronicle.
-- [Else Götze, née Römmler](else-roemmler.md) — according to the chronicle.
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md) — according to the chronicle.
 
 ### Spouses
 
@@ -29,5 +29,5 @@ Gutrune identifies Gertraute by name as her sister. The 1938 manifest separately
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 20, 22–24, 32–33.
-- [Historical source S8](../SOURCES.md) and [Gutrune’s passenger manifest](../records/Getrune%20Goetze/README.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 20, 22–24, 32–33.
+- [Historical source S8](../../SOURCES.md) and [Gutrune’s passenger manifest](../../records/Getrune%20Goetze/README.md).

@@ -2,7 +2,7 @@
 
 *Born 1899*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
@@ -17,7 +17,7 @@ The typed marriage year is 1943. Gutrune’s narrative places the marriage and t
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md)
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 
 ### Spouses
 
@@ -31,5 +31,5 @@ The typed marriage year is 1943. Gutrune’s narrative places the marriage and t
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 27–30, 37.
-- [Historical source S10](../SOURCES.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 27–30, 37.
+- [Historical source S10](../../SOURCES.md).

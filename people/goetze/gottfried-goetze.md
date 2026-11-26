@@ -2,7 +2,7 @@
 
 *1898–1965 in the chronicle*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
@@ -17,7 +17,7 @@ Gottfried married Margret Ulbrich on 23 March 1923 in Berlin-Lichtenberg, accord
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md)
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 
 ### Spouses
 
@@ -35,5 +35,5 @@ Gottfried married Margret Ulbrich on 23 March 1923 in Berlin-Lichtenberg, accord
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 23, 27–28.
-- [Ancestor chart for Gottfried’s family](../charts/README.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 23, 27–28.
+- [Ancestor chart for Gottfried’s family](../../charts/README.md).

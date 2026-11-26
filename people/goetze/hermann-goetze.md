@@ -2,7 +2,7 @@
 
 *1893–1962 in the chronicle*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
@@ -17,7 +17,7 @@ The 1938 manifest names Gutrune’s brother in Berlin as H. Goetze. The initial 
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md)
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 
 ### Spouses
 
@@ -29,5 +29,5 @@ The 1938 manifest names Gutrune’s brother in Berlin as H. Goetze. The initial 
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 19–22.
-- [Gutrune’s passenger manifest and source credits](../records/Getrune%20Goetze/README.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 19–22.
+- [Gutrune’s passenger manifest and source credits](../../records/Getrune%20Goetze/README.md).

@@ -1,8 +1,10 @@
 # Full name
 
+<!-- Place the profile in its birth-surname folder under people/. Use the birth surname in the filename and index. Use the married name and birth surname in the title where documented. -->
+
 *Life dates, with uncertainty if needed*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 

@@ -2,7 +2,7 @@
 
 *1897–1971 in the chronicle*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
@@ -17,7 +17,7 @@ The chronicle names Dieter, Marianne, and Alle as his children and records his d
 ### Parents
 
 - [Rudolf Emil Fritz Götze](rudolf-goetze.md)
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 
 ### Spouses
 
@@ -31,4 +31,4 @@ The chronicle names Dieter, Marianne, and Alle as his children and records his d
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 24–26, 35–37.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 24–26, 35–37.

@@ -2,11 +2,11 @@
 
 *Died at age 82 according to the chronicle*
 
-[Biography index](README.md)
+[Biography index](../README.md)
 
 ## Biography
 
-Gutrune identifies her maternal grandmother as Helene Arndt, daughter of [Gottfried Ludwig Arndt](gottfried-ludwig-arndt.md) and [Auguste Heinigke](auguste-heinigke.md). She married [Emil Römmler](emil-roemmler.md) in Chemnitz on 16 February 1862, according to the chronicle, and went with him to Paris while he studied three-color photography.
+Gutrune identifies her maternal grandmother as Helene Arndt, daughter of [Gottfried Ludwig Arndt](gottfried-ludwig-arndt.md) and [Auguste Heinigke](../heinigke/auguste-heinigke.md). She married [Emil Römmler](../roemmler/emil-roemmler.md) in Chemnitz on 16 February 1862, according to the chronicle, and went with him to Paris while he studied three-color photography.
 
 Gutrune names five daughters and three sons. Among them were Else, who married Rudolf Goetze, and Johanna, who married his brother Bernhard. Another son, Fritz, served as a Saxon cavalry captain and died in 1914 according to the memoir.
 
@@ -17,24 +17,24 @@ Gutrune remembered her grandparents’ Dresden villa, their summer house in Losc
 ### Parents
 
 - [Gottfried Ludwig Arndt](gottfried-ludwig-arndt.md)
-- [Auguste Arndt, née Heinigke](auguste-heinigke.md)
+- [Auguste Arndt, née Heinigke](../heinigke/auguste-heinigke.md)
 
 ### Spouses
 
-- [Carl Emil Römmler](emil-roemmler.md) — married 16 February 1862 in Chemnitz, according to the chronicle.
+- [Carl Emil Römmler](../roemmler/emil-roemmler.md) — married 16 February 1862 in Chemnitz, according to the chronicle.
 
 ### Children
 
 - Kaete Pape, née Römmler
 - Frieda Desberats, née Römmler
-- [Else Götze, née Römmler](else-roemmler.md)
+- [Else Götze, née Römmler](../roemmler/else-roemmler.md)
 - Lene Desberats, née Römmler
-- [Johanna Götze, née Römmler](johanna-roemmler.md)
+- [Johanna Götze, née Römmler](../roemmler/johanna-roemmler.md)
 - Hans Emil Römmler
 - Fritz Römmler
 - Willy Römmler
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 10–14.
-- [Dresden marriage register summary](../MARRIAGE_1892.md).
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 10–14.
+- [Dresden marriage register summary](../../MARRIAGE_1892.md).
