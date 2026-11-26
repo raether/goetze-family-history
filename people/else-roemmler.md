@@ -26,7 +26,7 @@ Gutrune identifies Helene Arndt as her maternal grandmother. The marriage regist
 ### Children
 
 - [Hermann Götze](hermann-goetze.md)
-- [Gertraute Götze Fischer](gertraute-goetze.md)
+- [Gertraute Götze Fischer](gertraute-goetze.md) — listed as their daughter in Gutrune’s chronicle (p. 17). A civil record would help confirm her parentage.
 - [Albrecht Götze](albrecht-goetze.md)
 - [Gottfried Götze](gottfried-goetze.md)
 - [Raimund Götze](raimund-goetze.md)

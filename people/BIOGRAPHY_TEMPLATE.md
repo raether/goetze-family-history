@@ -26,4 +26,4 @@ Write a short account of the person’s life. Add dated events, places, work, an
 
 - Cite the source and the page, entry, or record number supporting the biography and family connections.
 - Use plain names for relatives whose profile pages are pending. When a profile is added, link the relationship from both pages.
-- Label uncertain relationships and distinguish “sources name no children” from “no children.”
+- Put important evidence notes beside the relationship they qualify. Distinguish “sources name no children” from “no children.”

@@ -26,7 +26,7 @@ Gutrune remembered him as a gifted pianist and devotee of Wagner. The archive al
 ### Children
 
 - [Hermann Götze](hermann-goetze.md)
-- [Gertraute Götze Fischer](gertraute-goetze.md)
+- [Gertraute Götze Fischer](gertraute-goetze.md) — listed as their daughter in Gutrune’s chronicle (p. 17). A civil record would help confirm her parentage.
 - [Albrecht Götze](albrecht-goetze.md)
 - [Gottfried Götze](gottfried-goetze.md)
 - [Raimund Götze](raimund-goetze.md)
@@ -35,5 +35,5 @@ Gutrune remembered him as a gifted pianist and devotee of Wagner. The archive al
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 3, 5–9, 19, 22.
+- [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md), German manuscript pp. 3, 5–9, 17, 19, 22.
 - [Dresden marriage register summary](../MARRIAGE_1892.md) and [historical sources S4–S7](../SOURCES.md).
