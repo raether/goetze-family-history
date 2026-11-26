@@ -19,7 +19,7 @@ Research into later generations includes a promising **California lead for Gutru
 
 ## Family-supplied images
 
-Three original scans have been contributed: a [portrait captioned “Rudolf Goetze, age 23”](photos/Rudolph%20Goetze/IMG_4951.jpeg) and [both halves of an American passenger manifest](MEDIA.md). See the [media catalogue](MEDIA.md) for the preserved images, SHA-256 checksums and unanswered questions about provenance and identities.
+Browse the [family photographs](photos/README.md), including the portrait captioned “Rudolf Goetze, age 23.” The [U.S. passenger manifest entry](records/US%20passenger%20manifest/README.md) has both donated scans and the questions about their provenance.
 
 ## Join the research
 

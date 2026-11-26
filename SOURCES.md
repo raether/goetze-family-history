@@ -19,4 +19,4 @@ This is a reading guide, not a claim that every original was personally examined
 
 Corrections should name the specific source, page, archive number, and any limits to its reliability. Please do not upload copyrighted scans or private family documents without permission.
 
-| **S13** | [Family-contributed original image files (23 November 2026)](MEDIA.md) | Original JPEGs with SHA-256 integrity checks: captioned portrait “Rudolf Goetze, age 23,” and two halves of a historical U.S. passenger manifest. Photographer, original archival record, passenger identities and reproduction provenance unverified. |
+| **S13** | Family-contributed original image files (23 November 2026): [Rudolf portrait](photos/README.md#portrait-captioned-rudolf-goetze-age-23) and [passenger manifest scans](records/US%20passenger%20manifest/README.md) | Original JPEGs with SHA-256 integrity checks: captioned portrait “Rudolf Goetze, age 23,” and two halves of a historical U.S. passenger manifest. Photographer, original archival record, passenger identities and reproduction provenance unverified. |

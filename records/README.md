@@ -10,7 +10,7 @@ Browse the source material and record summaries here. Start with the [biography 
 ## Immigration records
 
 - [Gutrune Goetze’s immigration and marriage records](Getrune%20Goetze/README.md) include her passenger manifest and declaration of intention.
-- [The U.S. passenger manifest entry](../MEDIA.md#two-halves-of-a-us-passenger-arrival-manifest) lists two related images whose details are still being researched.
+- [The U.S. passenger manifest entry](US%20passenger%20manifest/README.md) lists two related images whose details are still being researched.
 
 ## Family letters
 

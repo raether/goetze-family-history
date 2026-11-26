@@ -37,3 +37,4 @@ Gutrune remembered him as a gifted pianist and devotee of Wagner. The archive al
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 3, 5–9, 17, 19, 22. [Read in English](../../records/chronicles/gutrune-1988-english.md#my-father-dr-rudolf-emil-goetze).
 - [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md) and [historical sources S4–S7](../../SOURCES.md).
+- [Portrait captioned “Rudolf Goetze, age 23”](../../photos/README.md#portrait-captioned-rudolf-goetze-age-23).
