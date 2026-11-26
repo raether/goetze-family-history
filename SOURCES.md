@@ -4,7 +4,7 @@ This is a reading guide, not a claim that every original was personally examined
 
 | ID | Source | What it supports / limits |
 | --- | --- | --- |
-| **S1** | [*Götze senior und Söhne*, *Album der Sächsischen Industrie*, vol. 1 (1856), pp. 149–150 — Wikisource transcription](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne) | Text viewed. Business, ownership, production and market description; the firm's own contemporary presentation is not a financial statement. |
+| **S1** | [*Götze senior und Söhne*, *Album der Sächsischen Industrie*, vol. 1 (1856), pp. 149–150 — Wikisource transcription](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne) | Text viewed. [English translation](records/publications/1856-goetze-senior-und-soehne.md). Business, ownership, production and market description; the firm's own contemporary presentation is not a financial statement. |
 | **S2** | [1856 lithograph *Götze senior und Söhne* — Wikimedia Commons, plate 0291](https://commons.wikimedia.org/wiki/File:Album_der_S%C3%A4chsischen_Industrie_Band_1_0291.jpg) | Caption and file metadata checked. **Not** the similarly named Seydel & Söhne plate 0329. Not a portrait of Rudolf. |
 | **S3** | [*Hessische Biografie*: Lorenz Gottlieb Brunner](https://lagis.hessen.de/de/personen/hessische-biografie/alle-eintraege/13817_brunner-lorenz-gottlieb) | Secondary genealogical source. Emil Hermann Götze and Albertine Brunner's 1857 Frankfurt marriage; original HStAM marriage entry not yet viewed. |
 | **S4** | [Rudolf Götze — overview biography](https://de.wikipedia.org/wiki/Rudolf_G%C3%B6tze) | Secondary overview for birth/death and career. It cannot replace the church or civil registers. |

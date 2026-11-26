@@ -44,3 +44,4 @@ Gutrune later received a family account of a possible New York branch of the tex
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 1–2, 5, 35. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us).
 - [Historical sources S1–S3](../../SOURCES.md) and [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).
 - [Twelve Generations of the Goetze Family](../../charts/Goetze_Twelve_Generations_English.png).
+- [English translation of the 1856 industry profile (S1)](../../records/publications/1856-goetze-senior-und-soehne.md).

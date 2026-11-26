@@ -15,3 +15,4 @@ The profile establishes a business partnership with Emil Hermann. A family or ci
 ## Sources
 
 - [“Götze senior und Söhne,” *Album der Sächsischen Industrie*, vol. 1 (1856), pp. 149–150](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne). Listed as S1 in the [source register](../../SOURCES.md).
+- [English translation of the 1856 industry profile (S1)](../../records/publications/1856-goetze-senior-und-soehne.md).

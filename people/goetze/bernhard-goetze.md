@@ -32,3 +32,4 @@ Gutrune’s memories show how often the two households saw each other. She remem
 ## Sources
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 17–18, 21. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us).
+- [English translation of the 1856 industry profile (S1)](../../records/publications/1856-goetze-senior-und-soehne.md).

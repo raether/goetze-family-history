@@ -23,3 +23,7 @@ Browse the source material and record summaries here. Start with the [biography 
 ## Newspaper clippings
 
 - [“Yale Professor Becomes an Honorary Sheikh”](newspapers/albrecht-goetze-honorary-sheikh/README.md) covers Albrecht Götze’s honorary title in Iraq.
+
+## Industry publications
+
+- [Götze senior und Söhne in Glauchau, 1856](publications/1856-goetze-senior-und-soehne.md) includes the English translation and links to the original German pages.
