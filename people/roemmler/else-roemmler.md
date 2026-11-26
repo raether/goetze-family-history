@@ -36,4 +36,4 @@ Gutrune identifies Helene Arndt as her maternal grandmother. The marriage regist
 ## Sources
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 6–9, 11–12, 17, 21, 23, 31–33.
-- [Dresden marriage register summary](../../MARRIAGE_1892.md).
+- [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).

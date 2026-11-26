@@ -36,4 +36,4 @@ Gutrune remembered him as a gifted pianist and devotee of Wagner. The archive al
 ## Sources
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 3, 5–9, 17, 19, 22.
-- [Dresden marriage register summary](../../MARRIAGE_1892.md) and [historical sources S4–S7](../../SOURCES.md).
+- [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md) and [historical sources S4–S7](../../SOURCES.md).

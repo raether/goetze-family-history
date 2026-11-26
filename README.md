@@ -4,13 +4,13 @@
 
 Welcome, especially to relatives and cousins who are following the research from the United States. This public archive is meant to make the history readable, checkable, and collaborative. The first edition was prepared on **22 November 2026**.
 
-**Start here:** [Family timeline](TIMELINE.md) · [Family lines and US connections](FAMILY_LINES.md) · [Historical sources](SOURCES.md) · [Open questions](OPEN_QUESTIONS.md) · [How to contribute](CONTRIBUTING.md) · [Deutsche Einführung](DEUTSCH.md).
+**Start here:** [Biographies](people/README.md) · [Records](records/README.md) · [Family timeline](TIMELINE.md) · [Family lines and US connections](FAMILY_LINES.md) · [Historical sources](SOURCES.md) · [Open questions](OPEN_QUESTIONS.md) · [How to contribute](CONTRIBUTING.md) · [Deutsche Einführung](DEUTSCH.md).
 
 ## The story we are reconstructing
 
 Our focus is the Götze / Goetze family, its links to the Römmler / Roemmler and Ulbrich families, and its movements between **Glauchau, Frankfurt, Leipzig, Berlin, Hesse, and the United States**.
 
-In 1856, *Götze senior und Söhne* operated a textile business in Glauchau, Saxony. A later physician, **Rudolf Emil Fritz Götze (1863–1920)**, came from a family described as connected to the weaving trade. **A newly examined original marriage register from Dresden (8 April 1892, No. 228) now identifies his parents directly as Emil Hermann Götze and Albertine, née Brunner.** It also identifies his wife Else Römmler and her photographer father Carl Emil Römmler. [Read the evidence summary](MARRIAGE_1892.md).
+In 1856, *Götze senior und Söhne* operated a textile business in Glauchau, Saxony. A later physician, **Rudolf Emil Fritz Götze (1863–1920)**, came from a family described as connected to the weaving trade. **A newly examined original marriage register from Dresden (8 April 1892, No. 228) now identifies his parents directly as Emil Hermann Götze and Albertine, née Brunner.** It also identifies his wife Else Römmler and her photographer father Carl Emil Römmler. [Read the evidence summary](records/marriages/1892-dresden-goetze-roemmler.md).
 
 Our work also documents difficult history. Rudolf Götze was publicly involved in an **antisemitic campaign in 1893–1894** against the Jewish Schmul family's legally approved use of the surname Goetze. We report this directly, using contemporary newspapers and historical scholarship; we do not attribute ancestral beliefs or actions to descendants.
 

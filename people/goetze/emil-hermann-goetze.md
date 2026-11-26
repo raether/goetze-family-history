@@ -34,5 +34,5 @@ Gutrune later received a family account of a possible New York branch of the tex
 ## Sources
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 1–2, 5, 35.
-- [Historical sources S1–S3](../../SOURCES.md) and [Dresden marriage register summary](../../MARRIAGE_1892.md).
+- [Historical sources S1–S3](../../SOURCES.md) and [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).
 - [Twelve Generations of the Goetze Family](../../charts/Goetze_Twelve_Generations_English.png).

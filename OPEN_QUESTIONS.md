@@ -2,7 +2,7 @@
 
 These are **specific gaps**, not invitations to fill blanks with guesses.
 
-1. **Glauchau, 1863:** Rudolf's parents are now established by the **1892 Dresden civil marriage record**, but can we find his original **1863 baptism entry** for the exact birthplace address and godparents? [New evidence](MARRIAGE_1892.md).
+1. **Glauchau, 1863:** Rudolf's parents are now established by the **1892 Dresden civil marriage record**, but can we find his original **1863 baptism entry** for the exact birthplace address and godparents? [New evidence](records/marriages/1892-dresden-goetze-roemmler.md).
 2. **Glauchau business, 1856–1884:** Do trade records, company papers, or family letters describe the later history of *Götze senior und Söhne*, its property or its sales?
 3. **The children of Rudolf and Elsa:** Can dated civil records establish a complete list of children and their birthplaces? Published sources disagree on the number.
 4. **Berlin Wagner association, 1887–1888:** Is Rudolf recorded as a *formal member* or merely a speaker? The proposed source is the Humboldt University Archive, *Rektor und Senat*, No. 683. The publicly available 1888 society report did not reveal its member list.

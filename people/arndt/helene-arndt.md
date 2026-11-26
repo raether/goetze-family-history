@@ -37,4 +37,4 @@ Gutrune remembered her grandparents’ Dresden villa, their summer house in Losc
 ## Sources
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 10–14.
-- [Dresden marriage register summary](../../MARRIAGE_1892.md).
+- [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).

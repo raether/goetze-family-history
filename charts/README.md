@@ -10,7 +10,7 @@ These English editions draw on handwritten family records. Their names, dates, a
 
 ## Research notes
 
-- The ancestor chart gives Rudolf’s mother as **Friederike Goetze, born Brunner**. The [1892 Dresden marriage record summary](../MARRIAGE_1892.md) reads **Albertine Caroline, née Brunner** and notes that the full sequence of given names remains uncertain. The account of the 1857 Frankfurt marriage cited in [Family lines](../FAMILY_LINES.md) gives **Albertine Friedericke Caroline Brunner**.
-- The same chart gives Rudolf’s wife as **Elsa**, while the [Dresden marriage register summary](../MARRIAGE_1892.md) records **Else Römmler**. The [family-lines account](../FAMILY_LINES.md) documents both forms.
+- The ancestor chart gives Rudolf’s mother as **Friederike Goetze, born Brunner**. The [1892 Dresden marriage record summary](../records/marriages/1892-dresden-goetze-roemmler.md) reads **Albertine Caroline, née Brunner** and notes that the full sequence of given names remains uncertain. The account of the 1857 Frankfurt marriage cited in [Family lines](../FAMILY_LINES.md) gives **Albertine Friedericke Caroline Brunner**.
+- The same chart gives Rudolf’s wife as **Elsa**, while the [Dresden marriage register summary](../records/marriages/1892-dresden-goetze-roemmler.md) records **Else Römmler**. The [family-lines account](../FAMILY_LINES.md) documents both forms.
 
 To suggest a correction, include the chart title, the person or generation, and the source for the proposed change. [How to contribute](../CONTRIBUTING.md)

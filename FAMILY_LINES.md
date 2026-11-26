@@ -8,7 +8,7 @@
 
 The 1856 industry publication describes two owners of **Götze senior und Söhne**, Carl Eduard and Emil Herrmann Götze. In the *Hessische Biografie*, Emil Hermann Götze is connected by a **1857 Frankfurt marriage** to Albertine Friedericke Caroline Brunner. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative.
 
-**NEW ORIGINAL RECORD:** The Dresden marriage register **No. 228 of 8 April 1892** identifies Rudolf Emil Fritz Götze's father as **Emil Hermann Götze**, merchant, and his mother as **Albertine Caroline, née Brunner** (one or more given names may still need clarification). Thus Rudolf's parentage is now established by a contemporary civil record, not just a same-name hypothesis. The 1863 baptismal register remains to be seen for godparents and birthplace address. We have not established that Carl Eduard and Emil Hermann were brothers. [Marriage record: evidence summary](MARRIAGE_1892.md). [Sources S1, S3, S4](SOURCES.md).
+**NEW ORIGINAL RECORD:** The Dresden marriage register **No. 228 of 8 April 1892** identifies Rudolf Emil Fritz Götze's father as **Emil Hermann Götze**, merchant, and his mother as **Albertine Caroline, née Brunner** (one or more given names may still need clarification). Thus Rudolf's parentage is now established by a contemporary civil record, not just a same-name hypothesis. The 1863 baptismal register remains to be seen for godparents and birthplace address. We have not established that Carl Eduard and Emil Hermann were brothers. [Marriage record: evidence summary](records/marriages/1892-dresden-goetze-roemmler.md). [Sources S1, S3, S4](SOURCES.md).
 
 ## Rudolf and Elsa / Else, née Römmler / Roemmler
 

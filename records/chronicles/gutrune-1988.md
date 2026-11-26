@@ -23,6 +23,6 @@ The family archive holds the German scans, an annotated English translation, and
 
 ## How the biographies cite it
 
-A statement attributed to the chronicle records what Gutrune wrote. Civil or immigration records are cited alongside it where available. For example, the chronicle gives Rudolf and Else’s marriage as 9 April 1892. The [Dresden civil marriage register summary](../../MARRIAGE_1892.md) records 8 April 1892. See also [Gutrune’s immigration and marriage records](../Getrune%20Goetze/README.md) and the [family tree charts](../../charts/README.md).
+A statement attributed to the chronicle records what Gutrune wrote. Civil or immigration records are cited alongside it where available. For example, the chronicle gives Rudolf and Else’s marriage as 9 April 1892. The [Dresden civil marriage register summary](../marriages/1892-dresden-goetze-roemmler.md) records 8 April 1892. See also [Gutrune’s immigration and marriage records](../Getrune%20Goetze/README.md) and the [family tree charts](../../charts/README.md).
 
 [Browse the individual biographies](../../people/README.md).

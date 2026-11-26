@@ -1,5 +1,7 @@
 # An original marriage record links the Glauchau and Dresden families (1892)
 
+[Rudolf Emil Fritz Götze](../../people/goetze/rudolf-goetze.md) · [Else Römmler](../../people/roemmler/else-roemmler.md)
+
 **Dresden civil marriage register, entry No. 228, 8 April 1892.** The two photographed pages were provided by a family researcher on **22 November 2026** and examined directly. The photos are **not included** in this public repository because their reproduction rights and original archive attribution have not yet been established. This is an evidence-based summary, not a public facsimile.
 
 ## What the civil record actually says
@@ -29,4 +31,4 @@ Rudolf's **1863 baptism entry** may still tell us his godparents and his family'
 
 The precise archival repository and volume identifier for the photographed register should be added when established. Until then, cite this as **"Dresden civil marriage register No. 228/1892, two photographs provided by family, visually examined 22 Nov 2026; digital facsimile not publicly displayed."**
 
-If relatives have an independently sourced copy or know the archive's finding number, please [share a lead](CONTRIBUTING.md). Do not upload private family images without the holder's permission.
+If relatives have an independently sourced copy or know the archive's finding number, please [share a lead](../../CONTRIBUTING.md). Do not upload private family images without the holder's permission.
