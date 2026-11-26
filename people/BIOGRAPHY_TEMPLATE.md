@@ -8,7 +8,7 @@
 
 ## Biography
 
-Write a short account of the person’s life. Add dated events, places, work, and memories where the sources support them. Attribute memories and explain significant disagreements between sources.
+Write a short account of the person’s life using the sources available. Add dated events, places, work, and memories as new evidence comes in. Attribute recollections to the person who shared them. When sources disagree, cite each account and explain which reading the bio uses if the evidence favors one.
 
 ## Family
 

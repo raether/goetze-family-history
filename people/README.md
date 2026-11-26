@@ -1,6 +1,8 @@
 # Family biographies
 
-These profiles follow people described in [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md). The chronicle and the surviving [family charts](../charts/README.md) provide additional context. Each profile cites the manuscript pages and identifies civil or archival records where used. Each person is listed once, under their birth surname. Open a profile to see married names where known. The Family section of each profile links to relatives across family lines.
+These biographies bring together what we know about each person from family accounts, civil and church records, letters, photographs, and other sources. [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md) provided much of the starting material. The biographies will grow as we find new sources and add more people.
+
+Each person is listed once, under their birth surname. Open a profile to see married names where known and follow family links across lines. The [family charts](../charts/README.md) show how generations fit together.
 
 [Biography template](BIOGRAPHY_TEMPLATE.md) · [Guide for contributors](#guide-for-contributors)
 
@@ -43,7 +45,7 @@ These profiles follow people described in [Gutrune Falckon’s 1988 family chron
 
 - **File each person by birth surname.** Keep one bio per person. Use the birth surname in the folder, filename, and index entry. Show the married name in the bio title when documented. For example, [Helene Arndt](arndt/helene-arndt.md) is filed under Arndt and her bio is titled *Helene Römmler, née Arndt*.
 - **Follow the biography template.** Start with the person’s story, then list parents, spouses, children, and sources. Link relatives’ bios in both directions when a page exists for each person. For relatives without a bio, use their name as plain text.
-- **Cite the source.** Include the page, record number, or other detail that lets someone find it. Put an evidence note beside any uncertain relationship or conflicting date.
+- **Add new findings to the existing bio.** Cite the source beside the detail it supports when the distinction matters, and include the page, record number, or other detail that lets someone find it. If a new source disagrees with an earlier account, give both readings with their sources and explain which one you use if the evidence favors it.
 - **Link photos and records from the bio.** Keep each source in its own archive location and link to it from the relevant bios. For a group photo, use one [media entry](../MEDIA.md) and list the people from left to right where possible. Say which identifications are tentative and include any inscription from the back.
 
 A name, correction, or photo identification is enough to get started. See the [archive contribution guide](../CONTRIBUTING.md) for ways to share it and the guidelines for private material.
