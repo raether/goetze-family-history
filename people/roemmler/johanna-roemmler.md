@@ -29,4 +29,4 @@ Johanna married [Bernhard Götze](../goetze/bernhard-goetze.md), the brother of 
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 11, 17–18.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 11, 17–18. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-roemmler-family).

@@ -28,4 +28,4 @@ Gutrune says Brigitte married the veterinarian Hubert Spieler in 1926 and that t
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17–18, 37.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17–18, 37. [Read in English](../../records/chronicles/gutrune-1988-english.md#hildegard-erna-and-brigitte-goetze).

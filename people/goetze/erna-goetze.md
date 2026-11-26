@@ -28,4 +28,4 @@ Erna married the merchant Werner Holz, the eldest son of her paternal aunt Fried
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 17–18.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 17–18. [Read in English](../../records/chronicles/gutrune-1988-english.md#hildegard-erna-and-brigitte-goetze).

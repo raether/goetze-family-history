@@ -28,4 +28,4 @@ The chronicle says Hildegard married Frank Glatzel in Berlin on 27 November 1918
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17–18.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17–18. [Read in English](../../records/chronicles/gutrune-1988-english.md#hildegard-erna-and-brigitte-goetze).

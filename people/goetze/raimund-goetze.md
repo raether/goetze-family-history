@@ -31,5 +31,5 @@ The typed marriage year is 1943. Gutrune’s narrative places the marriage and t
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 27–30, 37.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 27–30, 37. [Read in English](../../records/chronicles/gutrune-1988-english.md#dr-raimund-goetze).
 - [Historical source S10](../../SOURCES.md).

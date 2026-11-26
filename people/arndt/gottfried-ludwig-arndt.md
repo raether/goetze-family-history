@@ -30,4 +30,4 @@ The chronicle types the marriage year as 1941, although its stated ages and the 
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 10, 13–14, 17.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 10, 13–14, 17. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-arndt-and-heinigke-families).

@@ -1,6 +1,6 @@
 # Family biographies
 
-These biographies bring together what we know about each person from family accounts, civil and church records, letters, photographs, and other sources. [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md) provided much of the starting material. The biographies will grow as we find new sources and add more people.
+These biographies bring together what we know about each person from family accounts, civil and church records, letters, photographs, and other sources. [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md) provided much of the starting material and is available as an [English reading edition](../records/chronicles/gutrune-1988-english.md). The biographies will grow as we find new sources and add more people.
 
 Each person is listed once, under their birth surname. Open a profile to see married names where known and follow family links across lines. The [family charts](../charts/README.md) show how generations fit together.
 

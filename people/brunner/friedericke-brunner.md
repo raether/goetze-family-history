@@ -33,5 +33,5 @@ Gutrune recalled that Friederike wrote an account of her youth in Frankfurt and 
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 2–5.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 2–5. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us).
 - [Historical source S3](../../SOURCES.md) and [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md).

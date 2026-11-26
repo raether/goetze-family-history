@@ -36,5 +36,5 @@ He married [Helene Arndt](../arndt/helene-arndt.md) in Chemnitz in 1862. Gutrune
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 9–12, 36.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 9–12, 36. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-roemmler-family).
 - [Dresden marriage register summary](../../records/marriages/1892-dresden-goetze-roemmler.md) and [Römmler family charts](../../charts/README.md).

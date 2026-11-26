@@ -25,4 +25,4 @@ Gutrune identifies Gunter as her twin brother and the seventh child of [Rudolf G
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 31.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 31. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-children-of-rudolf-goetze-and-else-roemmler).

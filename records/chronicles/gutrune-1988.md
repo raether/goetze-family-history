@@ -9,6 +9,11 @@ Gutrune dated her opening October 1988 and wrote in a later passage that it was 
 
 The chronicle combines Gutrune’s own memories, stories told by relatives, and information she obtained from the family tree. It is especially detailed about the household of Rudolf Goetze and Else Roemmler, their children, and Gutrune’s own life in Germany and abroad. Her account names Gertraute as her sister and Gunter as her twin brother. The 1938 passenger manifest separately names a sister recorded as G. Fischer and a brother recorded as H. Goetze.
 
+## Read the chronicle
+
+- [German original and English translation (PDF)](gutrune-1988-german-and-english.pdf) includes the 37-page German facsimile followed by the annotated English translation.
+- [English reading edition](gutrune-1988-english.md) presents the full translated text without manuscript page breaks and includes a reader’s guide and links to individual biographies.
+
 ## Page guide
 
 | Manuscript pages | Subjects |
@@ -19,7 +24,7 @@ The chronicle combines Gutrune’s own memories, stories told by relatives, and 
 | 18–30 | Hildegard, Erna and Brigitte, then Hermann, Gertraute, Albrecht, Gottfried, and Raimund |
 | 31–37 | Gutrune’s life, closing research notes, and branches of the family abroad |
 
-The family archive holds the German scans, an annotated English translation, and a continuous English reading edition. The page citations in the profiles use the numbered pages of the German manuscript.
+The page citations in the profiles use the numbered pages of the German manuscript.
 
 ## How the biographies cite it
 

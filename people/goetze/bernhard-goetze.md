@@ -29,4 +29,4 @@ Bernhard married [Johanna Römmler](../roemmler/johanna-roemmler.md), the younge
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 17–18, 21.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 5, 17–18, 21. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us).

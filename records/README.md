@@ -14,4 +14,4 @@ Browse the source material and record summaries here. Start with the [biography 
 
 ## Family chronicles
 
-- [Gutrune Falckon’s 1988 family chronicle](chronicles/gutrune-1988.md) covers the Götze and Römmler families and includes a manuscript page guide.
+- [Gutrune Falckon’s 1988 family chronicle](chronicles/gutrune-1988.md) covers the Götze and Römmler families. Read the [German original and English translation (PDF)](chronicles/gutrune-1988-german-and-english.pdf) or the [English reading edition](chronicles/gutrune-1988-english.md).

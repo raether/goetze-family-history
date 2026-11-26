@@ -27,4 +27,4 @@ Gutrune’s mother remembered visiting Auguste as a child and watching her eat c
 
 ## Sources
 
-- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 13–14, 17, 36.
+- [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 13–14, 17, 36. [Read in English](../../records/chronicles/gutrune-1988-english.md#the-arndt-and-heinigke-families).
