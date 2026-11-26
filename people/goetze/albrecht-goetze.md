@@ -33,3 +33,4 @@ The chronicle names Dieter, Marianne, and Alle as his children and records his d
 
 - [Gutrune Falckon’s 1988 family chronicle](../../records/chronicles/gutrune-1988.md), German manuscript pp. 17, 24–26, 35–37. [Read in English](../../records/chronicles/gutrune-1988-english.md#albrecht-goetze).
 - [Albrecht to Margret, 13 August 1935](../../records/letters/L001.md).
+- [“Yale Professor Becomes an Honorary Sheikh,” undated newspaper clipping](../../records/newspapers/albrecht-goetze-honorary-sheikh/README.md).
