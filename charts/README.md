@@ -2,8 +2,9 @@
 
 These English editions draw on handwritten family records. Their names, dates, and relationships reflect those records and can be checked against the archive’s [historical sources](../SOURCES.md).
 
-| Chart | What it covers | Heading in the handwritten record |
+| Chart | What it covers | Original heading or source |
 | --- | --- | --- |
+| [Dieter Goetze’s Family Tree](Dieter_Goetzes_Family_Tree_Interpretation.pdf) | Five-page PDF with an English redraw, enlarged views, a guide to reading the family connections, and the original scan on page 5. | Dieter Goetze’s handwritten chart |
 | [Goetze Family Ancestor Chart](Goetze_Family_Ancestor_Chart_English.png) | Gottfried Goetze’s ancestry on both sides of his family, including the Götze, Römmler, Brunner, and Arndt lines. | *Tafel der Ahnenbilder* |
 | [Twelve Generations of the Goetze Family](Goetze_Twelve_Generations_English.png) | The Götze line from Hans Christoph Goetze back to Moritz Götze, born around 1550. | *12 Goetze-Generationen* |
 | [Ten Generations of the Römmler Family](Roemmler_Ten_Generations_English.png) | The Römmler line from Hans Emil Römmler back to Jacob Römelin, who died before 1621. The chart preserves surname variants from the family record. | *10 Römmler-Generationen* |
