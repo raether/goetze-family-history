@@ -6,9 +6,15 @@
 
 ## Biography
 
-Emil Hermann Götze was a textile manufacturer in Glauchau, Saxony. An 1856 industry publication names Emil Herrmann Götze and Carl Eduard Götze as owners of *Götze senior und Söhne*. Gutrune Falckon, his granddaughter, recalled that Emil Hermann became wealthy through the use of power looms. [Gutrune’s chronicle, early Götze and Brunner families](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us)
+### Götze senior und Söhne in Glauchau
 
-The 1856 profile traces the firm to an earlier business called *Götze Gebrüder*, whose name changed in 1843. It describes wool and wool-blend fabrics sold in Germany and abroad. The firm did finishing on its premises, where the account reports 25 workers, while weavers in Glauchau and nearby communities did the weaving outside the factory. [1856 industry profile, pp. 149–150 (S1)](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne)
+Emil Hermann Götze was a textile manufacturer in Glauchau, Saxony. The *Album der Sächsischen Industrie* names him, spelled **Emil Herrmann Götze**, and [Carl Eduard Götze](carl-eduard-goetze.md) as the firm’s owners in 1856. It traces the business to *Götze Gebrüder*, established in the early nineteenth century. The name *Götze senior und Söhne* replaced it in 1843. The article leaves open when each man became an owner and how they were related. [1856 industry profile, pp. 149–150 (S1)](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne)
+
+In Glauchau’s Chemnitzer Vorstadt district, the firm occupied five buildings around an enclosed courtyard, with a house and gardens on the grounds. The profile lists one steam engine and three machines for shearing cloth during finishing. It reports 25 workers in the factory and finishing buildings, with additional weavers working off-site in Glauchau and nearby communities. They produced wool, part-wool, and silk-blend fabrics that sold in Germany and abroad, including overseas markets. Leipzig was the only trade fair the firm attended, according to the profile. [1856 industry profile, pp. 149–150 (S1)](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne)
+
+Gutrune Falckon, his granddaughter, attributed Emil Hermann’s prosperity to power looms. The profile’s machinery list describes equipment on the premises in 1856 and records off-site weaving at that time. [Gutrune’s chronicle, early Götze and Brunner families](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us) · [1856 industry profile, pp. 149–150 (S1)](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne)
+
+### Marriage, children, and the family’s account
 
 He married [Albertine Friedericke Caroline Götze, née Brunner](../brunner/friedericke-brunner.md) in Frankfurt am Main in 1857. The Dresden marriage register identifies them as [Rudolf’s](rudolf-goetze.md) parents. Gutrune names four surviving children: Frieda, Bruno, Rudolf, and [Bernhard](bernhard-goetze.md).
 

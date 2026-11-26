@@ -9,6 +9,7 @@ Each person is listed once, under their birth surname. Open a profile to see mar
 ## Götze line
 
 - [Emil Hermann Götze](goetze/emil-hermann-goetze.md)
+- [Carl Eduard Götze](goetze/carl-eduard-goetze.md) · Glauchau textile manufacturer, family relationship open
 - [Rudolf Emil Fritz Götze](goetze/rudolf-goetze.md)
 - [Hermann Götze](goetze/hermann-goetze.md)
 - [Gertraute Götze](goetze/gertraute-goetze.md)

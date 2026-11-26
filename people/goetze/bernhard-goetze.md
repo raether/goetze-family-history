@@ -6,7 +6,7 @@
 
 ## Biography
 
-Bernhard was [Rudolf Götze’s](rudolf-goetze.md) younger brother. Gutrune says that he inherited their father’s factory, sold it to pay his siblings their shares, and went into wholesale trading for textile mills. She remembers him living in Berlin.
+Bernhard was [Rudolf Götze’s](rudolf-goetze.md) younger brother. His father [Emil Hermann](emil-hermann-goetze.md#götze-senior-und-söhne-in-glauchau) is documented as a Glauchau textile firm owner in 1856. Gutrune says that Bernhard later inherited his father’s factory, sold it to pay his siblings their shares, and went into wholesale trading for textile mills. She remembers him living in Berlin. [1856 industry profile, pp. 149–150 (S1)](https://de.wikisource.org/wiki/G%C3%B6tze_senior_und_S%C3%B6hne) · [Gutrune’s chronicle, early Götze and Brunner families](../../records/chronicles/gutrune-1988-english.md#the-earliest-goetzes-and-brunners-known-to-us)
 
 Bernhard married [Johanna Römmler](../roemmler/johanna-roemmler.md), the younger sister of Rudolf’s wife Else. The two couples’ children were therefore first cousins through both families. Gutrune names Bernhard and Johanna’s daughters as [Hildegard](hildegard-goetze.md), [Erna](erna-goetze.md), and [Brigitte](brigitte-goetze.md).
 

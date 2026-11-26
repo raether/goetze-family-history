@@ -4,7 +4,7 @@ Start here to see how the families connect. Follow the [biography index](people/
 
 ## Götze and Brunner in Glauchau and Frankfurt
 
-The 1856 industry publication names Carl Eduard and Emil Herrmann Götze as owners of *Götze senior und Söhne* in Glauchau. Their exact relationship remains open. The *Hessische Biografie* connects Emil Hermann Götze to Albertine Friedericke Caroline Brunner through their 1857 Frankfurt marriage. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative. The 1892 Dresden register confirms Emil Hermann and Albertine, née Brunner, as Rudolf’s parents. [Glauchau and Frankfurt sources](SOURCES.md) · [Götze bios](people/README.md#götze-line) · [Brunner bio](people/README.md#brunner-line)
+The 1856 industry publication names [Carl Eduard Götze](people/goetze/carl-eduard-goetze.md) and [Emil Hermann Götze](people/goetze/emil-hermann-goetze.md) as owners of *Götze senior und Söhne* in Glauchau. Their exact relationship remains open. The *Hessische Biografie* connects Emil Hermann Götze to Albertine Friedericke Caroline Brunner through their 1857 Frankfurt marriage. She was a daughter of Lorenz Gottlieb Brunner, a Frankfurt entrepreneur and civic representative. The 1892 Dresden register confirms Emil Hermann and Albertine, née Brunner, as Rudolf’s parents. [Glauchau and Frankfurt sources](SOURCES.md) · [Götze bios](people/README.md#götze-line) · [Brunner bio](people/README.md#brunner-line)
 
 ## Römmler, Arndt, and Heinigke
 
