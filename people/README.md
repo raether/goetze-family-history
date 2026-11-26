@@ -1,6 +1,8 @@
 # Family biographies
 
-These profiles follow people described in [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md). The chronicle and the surviving [family charts](../charts/README.md) provide additional context. Each profile cites the manuscript pages and identifies civil or archival records where used.
+These profiles follow people described in [Gutrune Falckon’s 1988 family chronicle](../records/chronicles/gutrune-1988.md). The chronicle and the surviving [family charts](../charts/README.md) provide additional context. Each profile cites the manuscript pages and identifies civil or archival records where used. The Family section links to relatives with profiles.
+
+[Biography template for new profiles](BIOGRAPHY_TEMPLATE.md).
 
 ## Goetze, Brunner, Römmler, Arndt, and Heinigke
 
