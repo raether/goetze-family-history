@@ -4,6 +4,10 @@
 
 [Biography index](../README.md)
 
+<img src="../../photos/Rudolph%20Goetze/IMG_4951.jpeg" alt="Studio portrait captioned Rudolf Goetze, age 23" width="280">
+
+*Family caption: “Rudolf Goetze, age 23.”* [Photo record](../../photos/README.md#portrait-captioned-rudolf-goetze-age-23)
+
 ## Biography
 
 Rudolf Emil Fritz Götze was born on 23 September 1863 in Glauchau, the son of [Emil Hermann Götze](emil-hermann-goetze.md) and [Albertine née Brunner](../brunner/friedericke-brunner.md). He married [Else Römmler](../roemmler/else-roemmler.md) in Dresden on 8 April 1892, as recorded in civil register No. 228. Gutrune, their daughter, gives 9 April in her chronicle.
